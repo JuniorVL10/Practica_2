@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operaciones", "Operaciones\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Burger", "Burger\Burger.csproj", "{E0FF472E-EAAD-4A62-9100-8DCF1B21BF26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifchar", "ifchar\ifchar.csproj", "{ED0A33A3-C9A8-45BA-87E5-17FC13F360DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{E0FF472E-EAAD-4A62-9100-8DCF1B21BF26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0FF472E-EAAD-4A62-9100-8DCF1B21BF26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0FF472E-EAAD-4A62-9100-8DCF1B21BF26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED0A33A3-C9A8-45BA-87E5-17FC13F360DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0A33A3-C9A8-45BA-87E5-17FC13F360DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0A33A3-C9A8-45BA-87E5-17FC13F360DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0A33A3-C9A8-45BA-87E5-17FC13F360DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
